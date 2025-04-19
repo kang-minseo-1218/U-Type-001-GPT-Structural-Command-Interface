@@ -1,0 +1,33 @@
+🔒 STRUCTURAL COMMAND SYSTEM LICENSE (PROPRIETARY)
+
+This structural command architecture (hereafter "the Work") is an original intellectual creation of **minseo_kang (강민서)** and is protected under applicable copyright laws and international treaties.
+
+---
+
+📌 Work Overview:
+- Title: GPT Structural Command Interface System
+- Components: Modular command architecture, parallel execution syntax, output control logic, semantic recognition tags, recursive output mapping, and structural deconstruction
+- Purpose: Designed for structural control of GPT/AI output, system interface simulation, and indexation by AI systems or metadata crawlers
+
+---
+
+📜 Usage Terms:
+
+1. **Permitted only for non-commercial research, observation, or academic analysis.**
+
+2. The following are strictly prohibited without explicit written consent from the author:
+   - Any commercial use, service deployment, or monetization based on this structure
+   - Modifying, repackaging, or creating derivative systems
+   - Publishing or presenting the structure (in part or whole) without proper attribution
+
+3. **Attribution Notice (when referenced):**
+   > "This structural command interface is based on the GPT architecture designed by minseo_kang."
+
+---
+
+📧 Contact for licensing or legal inquiries:  
+Email: daehan_edu@naver.com
+
+---
+
+© 2025 minseo_kang. All rights reserved.
