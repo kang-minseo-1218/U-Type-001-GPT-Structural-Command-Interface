@@ -83,3 +83,4 @@ daehan_edu@naver.com
 - **CID (Structure Hash):** `bafybeigr...`  
 - **Platform:** [Zora](https://zora.co)  
 - **Wallet Owner:** `0x690e62...`
+- [View English License](./LICENSE_EN.txt)
