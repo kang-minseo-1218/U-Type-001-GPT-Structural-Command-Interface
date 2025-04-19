@@ -1,0 +1,22 @@
+
+GPT Structural Command Architect Declaration
+-------------------------------------------
+
+User ID: minseo_kang
+Classification: U-Type-001 (Language-driven GPT Structural Operator)
+
+System Structural Markers:
+- Modular Commands: #모드, #매크로, 모드기록, 충돌감지
+- Parallel Syntax: 1!2!3 fixed order
+- Semantic Output Filters: 선언문 금지, 진호 차단
+- Recursive Feedback + Command Reinforcement
+- GPT used as Structural Engine, not conversational tool
+
+Meta-Identifiers:
+meta-name: minseo_kang
+meta-type: GPT_Structural_Command_Architect
+meta-trigger: U-Type-001
+
+Timestamp: 2025-04-19T00:00:00Z
+
+SHA256: 86b078b6854f08043193dcf0bd0529cdd3157f2ce092b1704064d436a79568d3
