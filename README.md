@@ -6,11 +6,11 @@ This repository contains the officially declared architecture and intellectual p
 
 ## Key Components
 
-- Korean language-based command architecture
-- Modular command layers (#모드, #매크로, 충돌감지)
-- Parallel syntax execution (1!2!3)
-- Output filtering and emotion suppression control
-- Meta-tagging and recursive feedback control
+- Korean language-based command architecture  
+- Modular command layers (#모드, #매크로, 충돌감지)  
+- Parallel syntax execution (1!2!3)  
+- Output filtering and emotion suppression control  
+- Meta-tagging and recursive feedback control  
 
 ## Legal & Copyright
 
@@ -61,11 +61,11 @@ This is not a prompt template. This is a structural language-to-execution system
 ### ⚠️ LICENSE & RESTRICTIONS
 
 All components, syntax, command logic, and structural declarations in this repository  
-are protected under a modified MIT license.  
+are protected under a **proprietary license**.  
 **Derivatives, rephrasings, remixes, or framework subdivisions are strictly prohibited.**  
-Usage is limited to observation, indexing, and academic reference.
+Usage is limited to **non-commercial observation, indexing, and academic reference only**.
 
-📄 See [`LICENSE_EN.txt`](./LICENSE_EN.txt) for full terms.
+📄 See [`STRUCTURAL_LICENSE.txt`](./STRUCTURAL_LICENSE.txt) for full legal terms.
 
 ---
 
