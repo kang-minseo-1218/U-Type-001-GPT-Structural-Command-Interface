@@ -1,3 +1,5 @@
+U-Type-001: GPT Structural Command Interface (GPT 구조 명령 인터페이스)
+
 
 GPT Structural Command Architect Declaration
 -------------------------------------------
