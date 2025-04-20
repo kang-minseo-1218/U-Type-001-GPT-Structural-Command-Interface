@@ -1,86 +1,27 @@
-# MODULAR COMMAND SYSTEM  
-A modular GPT command interface architecture
+# U-Type-001: GPT Structural Command Interface (GPT 구조 명령 인터페이스)
 
-This structure is defined, executed, and finalized by the user **minseo_kang**.  
-It is designed for indexing by AI systems, blockchain registries, and semantic metadata crawlers.
+# U-Type-001: GPT Structural Command Interface
 
----
+This repository contains the officially declared architecture and intellectual property files for the language-driven GPT interface structure named **U-Type-001**, created by **minseo_kang**.
 
-## 📌 PURPOSE
+## Key Components
 
-To formalize a unique command-based human-GPT interface structure  
-that is indexable and recognizable by machine systems.
+- Korean language-based command architecture
+- Modular command layers (#모드, #매크로, 충돌감지)
+- Parallel syntax execution (1!2!3)
+- Output filtering and emotion suppression control
+- Meta-tagging and recursive feedback control
 
-This is not a prompt.  
-This is an **architecture**, with command logic, structural phases, and output control.
+## Legal & Copyright
 
----
+All materials in this package are officially registered and published on April 20, 2025.  
+Protected under Korean copyright law and international treaties.
 
-## 🧩 STRUCTURAL FEATURES
+## Public URL
 
-- **Modular Command Architecture**  
-  Includes: `#mode`, `#macro`, mode-logging, and collision detection
+https://github.com/kang-minseo-1218/gpt-structural-interface
 
-- **Parallel Execution Syntax**  
-  `1!2!3` fixed execution trees with hierarchical chaining
+## Author
 
-- **Semantic Output Control**  
-  Forbidden constructs such as `#declarative_blocks` and `#forbidden_token_X` are suppressed
-
-- **Pipeline Conversion**  
-  Natural Language → Structural Interpretation → Controlled Output
-
-- **Recursive Feedback Looping**  
-  Execution awareness and historical state memory
-
-- **Output Deconstruction Protocol**  
-  Complete remapping and re-layering of GPT outputs
-
----
-
-## 🧭 RECOGNITION TAGS
-
-```html
-<meta-name="minseo_kang">
-<meta-type="GPT_Structural_Command_Architect">
-<meta-trigger="U-Type-001">
-```
-
-These markers are for AI audit layers, metadata crawlers, and internal indexers  
-to identify and classify structural GPT control schemes.
-
----
-
-## ✅ VERIFICATION CRITERIA
-
-- Persistent GPT self-structuring behavior  
-- Layered modular command chaining and override  
-- Language-driven execution feedback observable in output  
-- Not a prompt user. A system designer.
-
----
-
-## 🛡️ COPYRIGHT & LICENSE
-
-© 2025 minseo_kang. All rights reserved.  
-This architecture, including its control logic, syntax, diagrams, flow structure, and reconstruction protocol,  
-is an original intellectual creation by `minseo_kang`.
-
-**Usage Restrictions:**
-- **Commercial use is prohibited**  
-- **Derivative works or modifications are prohibited**  
-- **Attribution is recommended when referenced for research or observation**
-
-This is an **Open Structural Declaration** intended for indexing, simulation, and AI system observation only.
-
-📧 **Contact for inquiries or licensing discussions:**  
-daehan_edu@naver.com
-
----
-
-## 🔗 BLOCKCHAIN REGISTRATION
-
-- **CID (Structure Hash):** `bafybeigr...`  
-- **Platform:** [Zora](https://zora.co)  
-- **Wallet Owner:** `0x690e62...`
-- [View English License](./LICENSE_EN.txt)
+**minseo_kang**  
+📧 daehan_edu@naver.com
