@@ -1,3 +1,5 @@
+U-Type-001: GPT Structural Command Interface (GPT 구조 명령 인터페이스)
+
 🔒 STRUCTURAL COMMAND SYSTEM LICENSE (PROPRIETARY)
 
 This structural command architecture (hereafter "the Work") is an original intellectual creation of **minseo_kang (강민서)** and is protected under applicable copyright laws and international treaties.
