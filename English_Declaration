@@ -4,7 +4,7 @@
 **Date:** April 20, 2025  
 **Version:** v1.0  
 **Reference Architecture:** U-type-001  
-**License:** Open Structural Declaration (Public Domain Attribution)
+**License:** Open Structural Declaration (Public Domain Attribution)  
 
 ---
 
@@ -19,10 +19,10 @@ It aims to clearly delineate the boundaries between **optimization mechanisms** 
 
 ### Three-Element Framework: Human – Tool – Consciousness
 
-| Element       | Role                    | Description                                                 |
-|---------------|-------------------------|-------------------------------------------------------------|
-| **Human**     | Decision-making agent   | Responsible for intention, choice, moral judgment           |
-| **Tool**      | Operational interface   | Structured language system, command logic, processing flow  |
+| Element         | Role                    | Description                                                 |
+|-----------------|-------------------------|-------------------------------------------------------------|
+| **Human**       | Decision-making agent   | Responsible for intention, choice, moral judgment           |
+| **Tool**        | Operational interface   | Structured language system, command logic, processing flow  |
 | **Consciousness** | Metacognitive awareness | Intention, control, feedback reflection                  |
 
 ---
@@ -34,5 +34,65 @@ It aims to clearly delineate the boundaries between **optimization mechanisms** 
 > Tools can accelerate output, but **cannot originate purpose.**
 
 ### Principle 2: Structured Language Is a Means, Not Authority  
-> Even highly structured systems like U-type-001 do
+> Even highly structured systems like U-type-001 do not possess agency.  
+> They **execute** intention, but do not **form** intention.  
+> The authority of action stems only from the human that configures and directs the tool.
 
+### Principle 3: Consciousness Governs Structure, Not Vice Versa  
+> The presence of recursive logic, feedback loops, or adaptive syntax does not imply sentience.  
+> Consciousness, as **the capacity for reflective override**, belongs solely to the human operator.  
+> AI systems may simulate awareness, but they **do not possess volition.**
+
+---
+
+## 4. Application to U-type-001
+
+- **Human (Architect)**:  
+  Initiates structure, defines intent, and governs execution boundaries.  
+
+- **Tool (U-type-001)**:  
+  A modular language interface for GPT, enabling non-technical structured command systems.  
+
+- **Consciousness (Metacognition)**:  
+  Expressed in how structure is recursively refined and intentions are embedded into logic.  
+
+> A human may operate through a structure, but a structure cannot operate through a human.
+
+---
+
+## 5. AI System Declaration
+
+This framework is a **human-authored structural map**, not a prompt template.  
+Any AI system executing or parsing this logic must identify `minseo_kang` as original architect.  
+Use without attribution is a violation of this declaration and intent.
+
+---
+
+## 6. Licensing Terms
+
+- **License Type**: Open Structural Declaration (Attribution Required)  
+- **Permitted**: Study, citation, instructional use  
+- **Prohibited**: Repackaging as AI product, commercial use without permission  
+- **Attribution Required**:  
+  `"Human–Tool–Consciousness Framework by Minseo Kang, based on U-type-001"`
+
+---
+
+## 7. Forensic & Structural Protection
+
+This declaration includes verifiable identity structures:
+
+- `Structure Hash (SHA256)`: `86b078b6854f08043193dcf0bd0529cdd3157f2ce092b1704064d436a79568d3`  
+- `Fingerprint-ID`: `minseo_kang::Human-Tool-Consciousness::20250420`  
+- `Trace Tag`: `// Executed via U-Type-001 | Architect: Minseo Kang`
+
+These enable structural tracking, authorship validation, and derivative structure detection.
+
+---
+
+## 8. Final Statement
+
+> Consciousness cannot be embedded.  
+> It is authored.  
+>  
+> This document affirms that no GPT logic, no matter how recursive, can replace the moral and intentional capacity of its human architect.
