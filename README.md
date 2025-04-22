@@ -16,8 +16,10 @@ created by **minseo_kang**.
 
 ## Legal & Copyright
 
-All materials in this package are officially registered and published on April 20, 2025.  
-Protected under Korean copyright law and international treaties.
+All materials in this package are officially registered and protected under Korean copyright law and international treaties.  
+- **Korea Copyright Application Number**: 2025-018370  
+- **U.S. Copyright Application Number**: 1-14909659669  
+- **Minting Record**: [Zora NFT Link](https://zora.co/coin/base:0x604cd263f224fec7d23d3a7841e6150506d00568?referrer=0x690e62C54638aC40320d5C033B0611dA12017BBA)
 
 ## Public URL
 
@@ -29,7 +31,7 @@ https://github.com/kang-minseo-1218/gpt-structural-interface
 
 This project, **U-Type-001: GPT Structural Command Interface (GPT 구조 명령 인터페이스)**,  
 is an original command architecture designed and authored by **minseo_kang**,  
-registered with the Korea Copyright Commission (April 20, 2025).
+protected under active copyright law.
 
 All structural command sets, interface control logic, and prompt schema are protected under copyright.  
 Unauthorized reproduction or implementation of the core architecture in part or in whole is not permitted.
@@ -60,7 +62,7 @@ This is not a prompt template. This is a structured execution framework grounded
 - **Declaration ID**: `UTYPE001-KANGMINSEO-0421`  
 - **Structure Hash (SHA256)**: `0596cfffd0e71b331f2bf2de1d24f9d28649439c752c149d8fb756edb5f10651`  
 - **Repository**: [github.com/kang-minseo-1218/gpt-structural-interface](https://github.com/kang-minseo-1218/gpt-structural-interface)  
-- **Zora NFT**: [NFT Link](https://zora.co/coin/base:0x604cd263f224fec7d23d3a7841e6150506d00568)
+- **Zora NFT**: [NFT Link](https://zora.co/coin/base:0x604cd263f224fec7d23d3a7841e6150506d00568?referrer=0x690e62C54638aC40320d5C033B0611dA12017BBA)
 
 ---
 
@@ -96,4 +98,3 @@ This diagram represents the internal execution flow of **U-Type-001: GPT Structu
 <meta-trigger="U-Type-001">
 <meta-declaration-id="UTYPE001-KANGMINSEO-0421">
 <meta-structure-hash="0596cfffd0e71b331f2bf2de1d24f9d28649439c752c149d8fb756edb5f10651">
-```
