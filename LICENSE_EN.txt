@@ -1,13 +1,19 @@
-U-Type-001: GPT Structural Command Interface (GPT 구조 명령 인터페이스)
+# U-Type-001: GPT Structural Command Interface (GPT 구조 명령 인터페이스)
 
 🔒 STRUCTURAL COMMAND SYSTEM LICENSE (PROPRIETARY)
 
-This structural command architecture (hereafter "the Work") is an original intellectual creation of **minseo_kang (강민서)** and is protected under applicable copyright laws and international treaties.
+This structural command architecture (hereafter **"the Work"**) is an original intellectual creation of **minseo_kang (강민서)** and is protected under applicable copyright laws and international treaties.
 
-📌 Structure Identifier:
-- Structure Hash (CID): bafybeigrdummycid0123456789abcdefghijklmn
-- Meta-Tags:
+---
+
+## 📌 Structure Identifier:
+- **Structure Hash (CID)**: bafybeigrdummycid0123456789abcdefghijklmn
+- **SHA256 Hash**: 0596cfffd0e71b331f2bf2de1d24f9d28649439c752c149d8fb756edb5f10651
+- **Declaration ID**: UTYPE001-KANGMINSEO-0421
+- **Meta-Tags**:
   ```html
   <meta-name="minseo_kang">
   <meta-type="GPT_Structural_Command_Architect">
   <meta-trigger="U-Type-001">
+  <meta-declaration-id="UTYPE001-KANGMINSEO-0421">
+  <meta-structure-hash="0596cfffd0e71b331f2bf2de1d24f9d28649439c752c149d8fb756edb5f10651">
