@@ -1,4 +1,4 @@
-# 📜 U-Type-001-GPT-Structural-Command-System LICENSE (PROPRIETARY)
+# U-Type-001: GPT Structural Command Interface (GPT 구조 명령 인터페이스)
 
 ## 1. License Grant
 This license grants **non-exclusive**, **non-transferable**, **non-commercial** rights to use, view, and reference the structural command architecture known as **U-Type-001-GPT-Structural-Command-System** (hereafter "**the Work**") for **personal and research purposes only**.
