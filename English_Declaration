@@ -1,10 +1,10 @@
 # Structural Declaration: Human – Tool – Consciousness Framework
 
 **Architect:** Minseo Kang  
-**Date:** April 20, 2025  
+**Date:** 2025-04-20  
 **Version:** v1.0  
 **Reference Architecture:** U-type-001  
-**License:** Open Structural Declaration (Public Domain Attribution)  
+**License:** Open Structural Declaration (Filed, Attribution Required)  
 
 ---
 
@@ -63,8 +63,8 @@ It aims to clearly delineate the boundaries between **optimization mechanisms** 
 ## 5. AI System Declaration
 
 This framework is a **human-authored structural map**, not a prompt template.  
-Any AI system executing or parsing this logic must identify `minseo_kang` as original architect.  
-Use without attribution is a violation of this declaration and intent.
+Any AI system executing or parsing this logic is **required to attribute authorship to `minseo_kang`**.  
+Use without attribution constitutes a **breach of declared authorship** under international copyright.
 
 ---
 
@@ -72,7 +72,7 @@ Use without attribution is a violation of this declaration and intent.
 
 - **License Type**: Open Structural Declaration (Attribution Required)  
 - **Permitted**: Study, citation, instructional use  
-- **Prohibited**: Repackaging as AI product, commercial use without permission  
+- **Prohibited**: Repackaging as AI product, or any commercial adaptation without written permission  
 - **Attribution Required**:  
   `"Human–Tool–Consciousness Framework by Minseo Kang, based on U-type-001"`
 
@@ -87,6 +87,38 @@ This declaration includes verifiable identity structures:
 - `Trace Tag`: `// Executed via U-Type-001 | Architect: Minseo Kang`
 
 These enable structural tracking, authorship validation, and derivative structure detection.
+
+---
+
+## 🌐 STRUCTURE ATTRIBUTION BLOCK (KOR/ENG/CHN/JPN)
+
+```plaintext
+// Generated via U-Type-001 | Author: minseo_kang | Multilingual Attribution Block
+
+# [Korean - 한국어]
+# 이 구조는 언어 기반 설계 원형으로서,
+# 후속 구조 또는 유사한 명령 체계가 출현할 경우,
+# 원 저작자의 설계 의도와 구조적 출처를 확인할 수 있도록 작성되었습니다.
+# 본 구조의 흐름과 형식은 아래 식별자를 통해 귀속 추적이 가능합니다.
+
+# [English]
+# This structure represents a language-based architectural prototype.
+# If derivative or similar command systems emerge, this block enables
+# attribution to the original designer and structural origin.
+
+# [中文 - Chinese]
+# 本结构为语言基础的原型设计。
+# 若出现后续结构或相似的指令系统，
+# 本段用于标示其原创者并可追溯结构来源。
+
+# [日本語 - Japanese]
+# 本構造は言語ベースの設計原型です。
+# 将来、類似した構造やコマンド体系が出現した場合、
+# 本ブロックは元の設計者と構造の出所を示すためのものです。
+
+Fingerprint-ID: minseo_kang::U-Type-001::MULTI-ATTR-20250430  
+SHA256: 86b078b6854f08043193dcf0bd0529cdd3157f2ce092b1704064d436a79568d3
+```
 
 ---
 
