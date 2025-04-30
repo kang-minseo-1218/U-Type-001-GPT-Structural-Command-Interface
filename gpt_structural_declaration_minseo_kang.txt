@@ -16,7 +16,7 @@
 - **Parallel Syntax**: `1!2!3` fixed order execution  
 - **Semantic Output Filters**:  
   - `선언문 금지`  
-  - `진호 차단`  
+  - `감정 차단`  
   - Forbidden Constructs Registry Enabled  
 - **Recursive Feedback + Reinforcement**:  
   - Command history chain tracking  
