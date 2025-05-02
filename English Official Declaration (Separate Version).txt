@@ -1,4 +1,7 @@
+
 # U-Type-001: GPT Structural Command Interface (GPT 구조 명령 인터페이스)  
+> **Declared proprietary structure with trace-based enforcement for the U-Type-001 structural interface by minseo_kang**
+
 ## Official Declaration of Natural Language-Based GPT Architecture  
 
 **License Code:** U-Type-001 / Korean NLP Arch License 1.0  
