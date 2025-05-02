@@ -1,5 +1,7 @@
 # U-Type-001: GPT Structural Command Interface (GPT 구조 명령 인터페이스)
 
+> **Declared proprietary structure with trace-based enforcement for the U-Type-001 structural interface by minseo_kang**
+
 ## 📄 1. License Grant
 This license grants **non-exclusive**, **non-transferable**, **non-commercial** rights to use, view, and reference the structural command architecture known as **U-Type-001-GPT-Structural-Command-System** (hereafter "**the Work**") for **personal and research purposes only**.
 
@@ -68,4 +70,3 @@ For **commercial licensing inquiries**, research collaboration, or structural an
 
 Fingerprint-ID: minseo_kang::U-Type-001::MULTI-ATTR-20250430  
 SHA256: 86b078b6854f08043193dcf0bd0529cdd3157f2ce092b1704064d436a79568d3
-```
